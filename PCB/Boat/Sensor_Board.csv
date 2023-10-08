@@ -1,0 +1,8 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"DHT11";"DO";"GPS";"HC-SR04";"L298N";"MF";"MP";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"PH";"POPULARITY";"PRICE";"QMC5883";"TDS";"TURBIDITY";
+"1";"";"DCBARRELPTH";"DCJACK_2MM_PTH";"DC-JACK";"2.0mm DC Barrel Jack";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"";"FE05W";"FE05W";"QMC5883";"FEMALE HEADER";"";"";"";"";"";"";"";"";"";"";"unknown";"unknown";"";"";"0";"";"";"";"";
+"2";"";"FE06-1";"FE06";"L298N, PH";"FEMALE HEADER";"";"";"";"";"";"";"";"";"";"";"unknown";"unknown";"";"";"11";"";"";"";"";
+"1";"";"FE08-1";"FE08";"TURBIDITY";"FEMALE HEADER";"";"";"";"";"";"";"";"";"";"";"unknown";"unknown";"";"";"10";"";"";"";"";
+"3";"";"MA03-1";"MA03-1";"DHT11, DO, TDS";"PIN HEADER";"";"";"";"";"";"";"";"";"";"";"unknown";"unknown";"";"";"48";"";"";"";"";
+"3";"";"MA04-1";"MA04-1";"GPS, HC-SR04, SV10";"PIN HEADER";"";"";"";"";"";"";"";"";"";"";"unknown";"unknown";"";"";"41";"";"";"";"";
+"1";"ESP32-DEVKIT-V1";"ESP32-DEVKIT-V1";"MODULE_ESP32_DEVKIT_V1";"ESP32";"Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz    Check availability";"Not in stock";" Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz ";"";"";"";"";"";"Do it";"ESP32-DEVKIT-V1";"";"";"";"None";"";"";"None";"";"";"";
