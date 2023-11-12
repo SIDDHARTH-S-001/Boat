@@ -24,6 +24,7 @@ The figure below shows the workflow,
 *  TDS Meter
 *  Dissolved Oxygen (DO) Sensor
 *  pH sensor
+*  Turbidity Sensor
 *  DHT11 Temperature Humidity Sensor
 *  1000 RPM Johnson Geared Motor
 *  L298N Dual Channel Motor driver
