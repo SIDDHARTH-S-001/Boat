@@ -22,6 +22,8 @@ The figure below shows the workflow,
 *  QMC5883L Magnetometer
 *  JSN-SR04M-2
 *  TDS Meter
+*  Dissolved Oxygen (DO) Sensor
+*  pH sensor
 *  DHT11 Temperature Humidity Sensor
 *  1000 RPM Johnson Geared Motor
 *  L298N Dual Channel Motor driver
