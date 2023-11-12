@@ -5,6 +5,10 @@ The boat is loaded with plants that are capable of absorbing certain pollutants 
 Once the situation is contained within limits, the boat takes the help of GPS sensor and Magnetometer to navigate around the water body. On top of this, with consistent data from the sensors can be used to predict the pollution level in
 the water body a day in advanced.
 
+The figure below shows the workflow, 
+
+<br> <img width="968" alt="image" src="https://github.com/SIDDHARTH-S-001/Boat/assets/73553742/72dc646a-7e92-468b-af2e-c3580e70c8fb">
+
 <h3>CAD model</h3>
 <br> Below is the CAD model of the boat (Designed in Autodesk Fusion 360).
 <br> The actual boat was then manufactured using FRP.
